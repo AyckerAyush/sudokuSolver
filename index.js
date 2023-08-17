@@ -104,6 +104,6 @@ function solver(sudoku){
         }
     }
     else{
-        console.log("can not be solved");
+        alert("can not be solved");
     }
 }
